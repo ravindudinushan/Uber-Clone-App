@@ -126,7 +126,7 @@ const Map = () => {
               longitude: destinationLongitude,
             }}
             apikey={directionsAPI!}
-            strokeColor="#0286FF"
+            strokeColor="#000000"
             strokeWidth={2}
           />
         </>
